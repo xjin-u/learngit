@@ -3,4 +3,9 @@ git is a free software
 the third line
 track change of file
 stupid boss
+<<<<<<< HEAD
 create a new branch is quick & simple
+=======
+create a new branch is quick AND simple
+>>>>>>> dev
+create a new branch is quick and simple
