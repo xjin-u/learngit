@@ -3,3 +3,4 @@ git is a free software
 the third line
 track change of file
 stupid boss
+create a new branch is quick AND simple
